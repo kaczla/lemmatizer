@@ -51,3 +51,9 @@ build-iPhoneSimulator/
 
 # User
 *~
+release/*
+data/PoliMorf.tab
+data/raw*
+data/fst*
+data/symbols
+data/main_data
